@@ -1,2 +1,3 @@
 # Course_project
-Modeling of motion animation of objects in homogeneous and heterogeneous environments. Development of a convolutional neural network for the classification of these objects.
+Animation modeling of objects motion in homogeneous and heterogeneous environments. 
+Detection and object classification using CNN.
